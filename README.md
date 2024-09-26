@@ -1,10 +1,8 @@
-<div align="center">
 
-<img src="assets/logo.png" width="400" height="auto">
+
 
 **Insta-Down** is a downloader specifically designed for downloading Instagram videos. (https://snapinsta.app)
 
-<img src="assets/console.png" width="700" height="auto">
 
 </div>
 
@@ -13,8 +11,8 @@
 **Using** `poetry`
 
 ```
-git clone https://github.com/x404xx/Insta-Down.git
-cd Insta-Down
+git clone https://github.com/TETRIX8/snapinsta.git
+cd snapinsta
 poetry shell
 poetry install
 ```
@@ -22,8 +20,8 @@ poetry install
 **Using** `pip`
 
 ```
-git clone https://github.com/x404xx/Insta-Down.git
-cd Insta-Down
+git clone https://github.com/TETRIX8/snapinsta.git
+cd snapinsta
 virtualenv env
 env/scripts/activate
 pip install -r requirements.txt
@@ -38,7 +36,7 @@ https://www.instagram.com/reel/C5WTtLuPrkq/?igsh=OGFvejljb3BmOTM4
 ## Usage
 
 ```
-python -m snapinsta https://www.instagram.com/reel/C5WTtLuPrkq/?igsh=OGFvejljb3BmOTM4
+python -m AKinsta https://www.instagram.com/reel/C5WTtLuPrkq/?igsh=OGFvejljb3BmOTM4
 ```
 
 ## **Legal Disclaimer**
